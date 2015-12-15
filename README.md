@@ -1,7 +1,9 @@
-# jQuery plugin: cron
+# jQuery plugin: cron (Modified for Quartz Format)
 
 jquery-cron is a [jQuery] plugin for
 presenting a simplified interface for users to specify cron entries.
+
+This version is modified to use Quartz Format.
 
 Check out the [jquery-cron] website for more information.
 
